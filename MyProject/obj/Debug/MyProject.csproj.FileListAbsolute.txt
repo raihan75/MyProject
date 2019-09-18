@@ -1,0 +1,10 @@
+C:\Users\raiha\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\raiha\source\repos\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\raiha\source\repos\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.CoffeShop.resources
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.pdb
