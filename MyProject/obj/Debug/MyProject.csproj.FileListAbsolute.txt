@@ -8,3 +8,13 @@ C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.Gener
 C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
 C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.exe
 C:\Users\raiha\source\repos\MyProject\MyProject\obj\Debug\MyProject.pdb
+E:\DotNet\MyProject\MyProject\bin\Debug\MyProject.exe.config
+E:\DotNet\MyProject\MyProject\bin\Debug\MyProject.exe
+E:\DotNet\MyProject\MyProject\bin\Debug\MyProject.pdb
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.CoffeShop.resources
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.exe
+E:\DotNet\MyProject\MyProject\obj\Debug\MyProject.pdb

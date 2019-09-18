@@ -112,6 +112,7 @@ namespace MyProject
         //Show All Customers Detail
         private void ShowAll()
         {
+            displayRichTextBox.Clear();
             string AllCustomer = "";
             for (int i = 0; i < names.Count(); i++)
             {
